@@ -7,3 +7,10 @@ SpringbootDemoProject/
 javaRevision/
 muttiThreading/
 newProject/
+build/
+dist/
+nbproject/
+test/
+build.xml
+manifest.mf
+
